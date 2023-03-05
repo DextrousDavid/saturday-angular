@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "DextrousDavid",
+      "name": "David Aimakhede",
+      "password": "Davekeys247!",
+      "email": "aimakhededavido@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    },
+    {
+      "id": "UgochiA",
+      "name": "UgochiAmajorah",
+      "password": "UgochiAmajorah247!",
+      "email": "ugochiamajorah@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "OkoroShegs",
+      "name": "Okoro Shegs",
+      "password": "OkoroShegs247!",
+      "email": "okoroshegs247@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "JohnDoe",
+      "name": "John Doe",
+      "password": "Johndoe247!",
+      "email": "johndoe@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "SamuelJones",
+      "name": "Samuel Jones J.",
+      "password": "SamuelJones247!",
+      "email": "samuelJones@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    }
+  ]
+}
